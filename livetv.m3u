@@ -1,124 +1,125 @@
 #EXTM3U
+#EXTINF:-1, GTV
+https://itpolly.iptv.digijadoo.net//live/gazi_tv/chunks.m3u8
+#EXTINF:-1, ZEE TV
+https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
+#EXTINF:-1, ATN Bangla
+https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+#EXTINF:-1, Jamuna TV
+https://triangle.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
+#EXTINF:-1, Asian TV
+https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
+#EXTINF:-1, ATN News
+https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
+#EXTINF:-1, Bangla Vison
+https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
+#EXTINF:-1, Boishakhi TV
+https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
+#EXTINF:-1, BTV
+https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
+#EXTINF:-1, Channel i
+https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
+#EXTINF:-1, Deepto TV
+https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:-1, Duronto TV
+https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
+#EXTINF:-1, Gaan Bangla
+https://triangle.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
+#EXTINF:-1, Nagorik TV
+https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
+#EXTINF:-1, NTV
+https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
+#EXTINF:-1, RTV
+https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
+#EXTINF:-1, SA TV
+https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
+#EXTINF:-1, Shopno TV
+http://43.231.22.238:8081/SHOPNO/shopnotv/chunks.m3u8
+#EXTINF:-1, Channel 24
+https://itpolly.iptv.digijadoo.net/live/channel_24/playlist.m3u8
+#EXTINF:-1, DBC News
+https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+#EXTINF:-1, Independent TV
+https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
+#EXTINF:-1, Somoy TV
+https://itpolly.iptv.digijadoo.net/live/somoy_news/playlist.m3u8
+#EXTINF:-1, 
+http://72.139.72.18:1935/live/myStream/playlist.m3u8
 #EXTINF:-1, Colors Rishyey
 https://edge01.iptv.digijadoo.net/live/rishtey/chunks.m3u8
 #EXTINF:-1, ZEE TV
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1, Colors TV
 https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, 
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, Colors HD
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, Sony Sab
 http://ddn.amrbd.com:8081/live/sonysab/playlist.m3u8
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, Sony Sab
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, Sony Pal
 https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, Star Plus
 https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, Star Plus
 http://ddn.amrbd.com:8081/live/starplus/playlist.m3u8
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, Star Bharat
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, Star Gold 2
 https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, 
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_360p/chunklist.m3u8
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, Star Gold
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, Star Gold 2
 https://edge01.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, ZEE Cinema
 http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, Zee Cinema
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, Zee Bollywood
 https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, & Picture
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, Sony MAX
 https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, Sony MAX HD
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, Sony WAH
 https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=15
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, Sony PIX
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1, BFlix
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, Maha Movie
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, Sony Aath
 https://sony247channels.akamaized.net/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, Sony MAX
 https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, Sony Pal
 https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, Sony MAX HD
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, Sony Marathi
 https://sony247channels.akamaized.net/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, Sony MIX
 https://sony247channels.akamaized.net/hls/live/2011739/SonyMixSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, Sony Yay
 https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, Sony PIX
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, Animax HD
 https://sony247channels.akamaized.net/hls/live/2002598/AnimaxHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, ETV
 http://etv_mp_hls-lh.akamaihd.net/i/etv_mp_hls_1@175737/index_3_av-b.m3u8
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, Channel i
 http://43.251.86.2:8080/hls/channel_1.m3u8
 https://triangle.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, Star Jalsha
 https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, Jalsha Movies
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
-#EXTINF:-1, ZEE TV
-https://itpolly.iptv.digijadoo.net//live/gazi_tv/chunks.m3u8
-#EXTINF:-1, ZEE TV
-https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
-#EXTINF:-1, ZEE TV
-https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
-#EXTINF:-1, ZEE TV
-https://triangle.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
-#EXTINF:-1, ZEE TV
-https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
-#EXTINF:-1, ZEE TV
-https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
-#EXTINF:-1, ZEE TV
-https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
-#EXTINF:-1, ZEE TV
-https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
-#EXTINF:-1, ZEE TV
-https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
-#EXTINF:-1, ZEE TV
-https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
-#EXTINF:-1, ZEE TV
-https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
-#EXTINF:-1, ZEE TV
-https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
-#EXTINF:-1, ZEE TV
-https://triangle.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
-#EXTINF:-1, ZEE TV
-https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
-#EXTINF:-1, ZEE TV
-https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
-#EXTINF:-1, ZEE TV
-https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
-#EXTINF:-1, ZEE TV
-https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
-#EXTINF:-1, ZEE TV
-http://43.231.22.238:8081/SHOPNO/shopnotv/chunks.m3u8
-#EXTINF:-1, ZEE TV
-https://itpolly.iptv.digijadoo.net/live/channel_24/playlist.m3u8
-#EXTINF:-1, ZEE TV
-https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
-#EXTINF:-1, ZEE TV
-https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
-#EXTINF:-1, ZEE TV
-https://itpolly.iptv.digijadoo.net/live/somoy_news/playlist.m3u8
-#EXTINF:-1, ZEE TV
-http://72.139.72.18:1935/live/myStream/playlist.m3u8
 
