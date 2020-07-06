@@ -126,3 +126,5 @@ https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1,IN: ZING
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1053.png",SKY Sport news UK
+http://reds.ppdn.tn/iptv/ch1053?code=840016827610293&key=62639
