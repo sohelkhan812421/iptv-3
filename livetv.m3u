@@ -164,6 +164,8 @@ http://tv-cdn.ihub.live:8080/MoviesNow/tracks-v1a1/mono.m3u8
 http://tv-cdn.ihub.live:8080/j-StarWorld/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zoom
 http://tv-cdn.ihub.live:8080/Zoom/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Zoom
+https://itpolly.iptv.digijadoo.net/live/zoom/chunks.m3u8
 #EXTINF:-1,Gaan Bangla
 http://tv-cdn.ihub.live:8080/GaanBangla/tracks-v1a1/mono.m3u8
 
