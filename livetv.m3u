@@ -1,59 +1,59 @@
 #EXTM3U
-#EXTINF:-1, GTV
+#EXTINF:-1, GTV group-title="itpolly"
 https://itpolly.iptv.digijadoo.net//live/gazi_tv/chunks.m3u8
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, ZEE TV group-title="itpolly"
 https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
-#EXTINF:-1, ATN Bangla
+#EXTINF:-1, ATN Bangla group-title="itpolly"
 https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
 #EXTINF:-1, Jamuna TV
 https://triangle.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
-#EXTINF:-1, Asian TV
+#EXTINF:-1, Asian TV group-title="itpolly"
 https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
-#EXTINF:-1, ATN News
+#EXTINF:-1, ATN News group-title="itpolly"
 https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
-#EXTINF:-1, Bangla Vison
+#EXTINF:-1, Bangla Vison group-title="itpolly"
 https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
-#EXTINF:-1, Boishakhi TV
+#EXTINF:-1, Boishakhi TV group-title="itpolly"
 https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
-#EXTINF:-1, BTV
+#EXTINF:-1, BTV group-title="itpolly"
 https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
-#EXTINF:-1, Channel i
+#EXTINF:-1, Channel i group-title="itpolly"
 https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
-#EXTINF:-1, Deepto TV
+#EXTINF:-1, Deepto TV group-title="itpolly"
 https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
-#EXTINF:-1, Duronto TV
+#EXTINF:-1, Duronto TV group-title="itpolly"
 https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 #EXTINF:-1, Gaan Bangla
 https://triangle.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
-#EXTINF:-1, Nagorik TV
+#EXTINF:-1, Nagorik TV group-title="itpolly"
 https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
 #EXTINF:-1, NTV
 https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
-#EXTINF:-1, RTV
+#EXTINF:-1, RTV group-title="itpolly"
 https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
-#EXTINF:-1, SA TV
+#EXTINF:-1, SA TV group-title="itpolly"
 https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
 #EXTINF:-1, Shopno TV
 http://43.231.22.238:8081/SHOPNO/shopnotv/chunks.m3u8
-#EXTINF:-1, Channel 24
+#EXTINF:-1, Channel 24 group-title="itpolly"
 https://itpolly.iptv.digijadoo.net/live/channel_24/playlist.m3u8
-#EXTINF:-1, DBC News
+#EXTINF:-1, DBC News group-title="itpolly"
 https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
-#EXTINF:-1, Independent TV
+#EXTINF:-1, Independent TV group-title="itpolly"
 https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
-#EXTINF:-1, Somoy TV
+#EXTINF:-1, Somoy TV group-title="itpolly"
 https://itpolly.iptv.digijadoo.net/live/somoy_news/playlist.m3u8
 #EXTINF:-1, 
 http://72.139.72.18:1935/live/myStream/playlist.m3u8
 #EXTINF:-1, Colors Rishyey
 https://edge01.iptv.digijadoo.net/live/rishtey/chunks.m3u8
-#EXTINF:-1, ZEE TV
+#EXTINF:-1, ZEE TV group-title="itpolly"
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1, Colors TV
 https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1, 
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8
-#EXTINF:-1, Colors HD
+#EXTINF:-1, Colors HD group-title="itpolly"
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1, Sony Sab
 http://ddn.amrbd.com:8081/live/sonysab/playlist.m3u8
@@ -61,25 +61,25 @@ http://ddn.amrbd.com:8081/live/sonysab/playlist.m3u8
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1, Sony Pal
 https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1, Star Plus
+#EXTINF:-1, Star Plus group-title="itpolly"
 https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 #EXTINF:-1, Star Plus
 http://ddn.amrbd.com:8081/live/starplus/playlist.m3u8
-#EXTINF:-1, Star Bharat
+#EXTINF:-1, Star Bharat group-title="itpolly"
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
-#EXTINF:-1, Star Gold 2
+#EXTINF:-1, Star Gold 2 group-title="itpolly"
 https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 #EXTINF:-1, 
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_360p/chunklist.m3u8
-#EXTINF:-1, Star Gold
+#EXTINF:-1, Star Gold group-title="itpolly"
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1, Star Gold 2
 https://edge01.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 #EXTINF:-1, ZEE Cinema
 http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
-#EXTINF:-1, Zee Cinema
+#EXTINF:-1, Zee Cinema group-title="itpolly"
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
-#EXTINF:-1, Zee Bollywood
+#EXTINF:-1, Zee Bollywood group-title="itpolly"
 https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 #EXTINF:-1, & Picture
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
@@ -118,13 +118,13 @@ http://etv_mp_hls-lh.akamaihd.net/i/etv_mp_hls_1@175737/index_3_av-b.m3u8
 #EXTINF:-1, Channel i
 http://43.251.86.2:8080/hls/channel_1.m3u8
 https://triangle.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
-#EXTINF:-1, Star Jalsha
+#EXTINF:-1, Star Jalsha group-title="itpolly"
 https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
-#EXTINF:-1, Jalsha Movies
+#EXTINF:-1, Jalsha Movies group-title="itpolly"
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 #EXTINF:-1,ASIA: FOX SPORTS NEWS
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1,IN: ZING
+#EXTINF:-1,IN: ZING group-title="itpolly"
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
 #EXTINF:-1,IN: Sony TEN 2
 https://sony247channels.akamaized.net/hls/live/2004808/SonyTen2SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
@@ -164,8 +164,6 @@ http://tv-cdn.ihub.live:8080/MoviesNow/tracks-v1a1/mono.m3u8
 http://tv-cdn.ihub.live:8080/j-StarWorld/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zoom
 http://tv-cdn.ihub.live:8080/Zoom/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Zoom
-https://itpolly.iptv.digijadoo.net/live/zoom/chunks.m3u8
 #EXTINF:-1,Gaan Bangla
 http://tv-cdn.ihub.live:8080/GaanBangla/tracks-v1a1/mono.m3u8
 
