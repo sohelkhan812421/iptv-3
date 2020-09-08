@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1, HBO Signature
+https://airam-tafir.github.io/hls/movie/hbo-sigsd.m3u8
+
+#EXTINF:-1, HBO Signature HD
+https://airam-tafir.github.io/hls/movie/hbo-sig.m3u8
