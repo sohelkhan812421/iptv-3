@@ -7,30 +7,28 @@
 http://ctgiptv.kitv.live:1935/live/test/test1/11.ts
 #EXTINF:-1  tvg-logo="#" group-title="Bangla", News 24
 http://103.49.168.172:8081/ebox/bd_news24/chunks.m3u8
-#EXTINF:-1 tvg-logo="#" group-title="Bangla", NEWS 24 [BD]
-http://robi.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", Sangsad TV [BD]
-http://robi.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
+http://airam-tafir.github.io/hls/bangla/songsodtv.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", BTV WORLD [BD]
-http://robi.iptv.digijadoo.net/live/btv_world/chunks.m3u8
+http://airam-tafir.github.io/hls/bangla/btv.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", BTV Chittagong
-http://tempskynk.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
+http://airam-tafir.github.io/hls/bangla/btvctg.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", ATN BANGLA [BD]
-http://robi.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+http://airam-tafir.github.io/hls/bangla/atn.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", ATN NEWS [BD]
-http://robi.iptv.digijadoo.net/live/atn_news/chunks.m3u8
+http://airam-tafir.github.io/hls/bangla/atn-news.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", EKUSHEY TV [BD]
 http://robi.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", CHANNEL I [BD]
-http://robi.iptv.digijadoo.net/live/channel_i/chunks.m3u8
+http://airam-tafir.github.io/hls/bangla/channel-i.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", NTV [BD]
-http://robi.iptv.digijadoo.net/live/ntv/chunks.m3u8
+http://airam-tafir.github.io/hls/bangla/ntv.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", DESH TV [BD]
 http://robi.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", DEEPTO TV [BD]
-http://robi.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+http://airam-tafir.github.io/hls/bangla/deeptotv.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", DBC NEWS [BD]
-http://robi.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+http://airam-tafir.github.io/hls/bangla/dbc-news.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", RTV [BD]
 http://robi.iptv.digijadoo.net/live/rtv/chunks.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", BOISHAKHI TV
