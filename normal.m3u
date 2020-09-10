@@ -36,33 +36,33 @@ http://airam-tafir.github.io/hls/bangla/boishakhitv.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", BANGLA VISION [BD]
 https://airam-tafir.github.io/hls/bangla/bangla-vision.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", MY TV [BD]
-http://robi.iptv.digijadoo.net/live/my_tv/chunks.m3u8
+https://airam-tafir.github.io/hls/bangla/mytv.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", MOHONA TV [BD]
-http://robi.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
+http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8?@dekhotv
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", MAASRANGA TV [BD]
-http://robi.iptv.digijadoo.net/live/maasranga/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.ts
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", CHANNEL 9 [BD]
-http://robi.iptv.digijadoo.net/live/channel_9/chunks.m3u8
+http://airam-tafir.github.io/hls/bangla/channel-9.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", GAZI TV [BD]
-http://robi.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+http://45.249.187.238:8081/hls/live5.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", ASIAN TV [BD]
-http://robi.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
+http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8?@dekhotv
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", SA TV [BD]
-http://robi.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
+http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", INDEPENDENT TV [BD]
-http://robi.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
+http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", SOMOY TV [BD]
-http://robi.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
+http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", CHANNEL 24 [BD]
-http://robi.iptv.digijadoo.net/live/channel_24/chunks.m3u8
+http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", JAMUNA TV [BD]
-http://robi.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
+http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", DURONTO TV [BD]
-http://robi.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/63.ts
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", Ananda TV
-http://tempskynk.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
+http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", Bangla TV
-http://tempskynk.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
+http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", Bijoy Bangla
 http://tempskynk.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", Asian TV
